@@ -12,7 +12,6 @@ This project demonstrates a full-stack implementation of a Convolutional Neural 
 - HLS-based hardware implementation with fixed-point optimization
 - Performance improvements via loop unrolling and pipelining
 - Final hardware accuracy: 91%
-- Achieved ~11x speedup in hardware execution
 
 ## Architecture
 
