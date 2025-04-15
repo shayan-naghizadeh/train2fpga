@@ -1,0 +1,94 @@
+<profile>
+
+<section name = "Vitis HLS Report for 'cnn'" level="0">
+<item name = "Date">Tue Jan 28 03:39:17 2025
+</item>
+<item name = "Version">2023.2 (Build 4023990 on Oct 11 2023)</item>
+<item name = "Project">cnn</item>
+<item name = "Solution">solution1 (Vivado IP Flow Target)</item>
+<item name = "Product family">virtexuplus</item>
+<item name = "Target device">xcvu11p-flga2577-1-e</item>
+</section>
+
+<section name = "Performance Estimates" level="0">
+<item name = "Timing">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="4">Clock, Target, Estimated, Uncertainty</keys>
+<column name="ap_clk">10.00 ns, 3.409 ns, 2.70 ns</column>
+</table>
+</item>
+</section>
+</item>
+<item name = "Latency">
+<section name = "" level="1">
+<item name = "Summary"><table name="" hasTotal="0">
+<keys size="8">, min, max, min, max, min, max, Type</keys>
+<column name="">36041, 36041, 0.360 ms, 0.360 ms, 36042, 36042, no</column>
+</table>
+</item>
+<item name = "Detail">
+<section name = "" level="1">
+<item name = "Instance"><table name="" hasTotal="0">
+<keys size="9">Instance, Module, min, max, min, max, min, max, Type</keys>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_2_fu_4640">cnn_Pipeline_VITIS_LOOP_21_2, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_21_fu_4702">cnn_Pipeline_VITIS_LOOP_21_21, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_22_fu_4736">cnn_Pipeline_VITIS_LOOP_21_22, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_23_fu_4770">cnn_Pipeline_VITIS_LOOP_21_23, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_24_fu_4804">cnn_Pipeline_VITIS_LOOP_21_24, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_25_fu_4838">cnn_Pipeline_VITIS_LOOP_21_25, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_26_fu_4872">cnn_Pipeline_VITIS_LOOP_21_26, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_27_fu_4906">cnn_Pipeline_VITIS_LOOP_21_27, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_28_fu_4940">cnn_Pipeline_VITIS_LOOP_21_28, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_29_fu_4974">cnn_Pipeline_VITIS_LOOP_21_29, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_210_fu_5008">cnn_Pipeline_VITIS_LOOP_21_210, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_211_fu_5042">cnn_Pipeline_VITIS_LOOP_21_211, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_212_fu_5076">cnn_Pipeline_VITIS_LOOP_21_212, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_213_fu_5110">cnn_Pipeline_VITIS_LOOP_21_213, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_214_fu_5144">cnn_Pipeline_VITIS_LOOP_21_214, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_215_fu_5178">cnn_Pipeline_VITIS_LOOP_21_215, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_216_fu_5212">cnn_Pipeline_VITIS_LOOP_21_216, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_217_fu_5246">cnn_Pipeline_VITIS_LOOP_21_217, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_218_fu_5280">cnn_Pipeline_VITIS_LOOP_21_218, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_219_fu_5314">cnn_Pipeline_VITIS_LOOP_21_219, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_220_fu_5348">cnn_Pipeline_VITIS_LOOP_21_220, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_221_fu_5382">cnn_Pipeline_VITIS_LOOP_21_221, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_222_fu_5416">cnn_Pipeline_VITIS_LOOP_21_222, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_223_fu_5450">cnn_Pipeline_VITIS_LOOP_21_223, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_224_fu_5484">cnn_Pipeline_VITIS_LOOP_21_224, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_225_fu_5518">cnn_Pipeline_VITIS_LOOP_21_225, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_226_fu_5552">cnn_Pipeline_VITIS_LOOP_21_226, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_21_227_fu_5586">cnn_Pipeline_VITIS_LOOP_21_227, 16, 16, 0.160 us, 0.160 us, 16, 16, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_28_3_fu_5620">cnn_Pipeline_VITIS_LOOP_28_3, 32, 32, 0.320 us, 0.320 us, 32, 32, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_45_6_VITIS_LOOP_47_7_fu_5714">cnn_Pipeline_VITIS_LOOP_45_6_VITIS_LOOP_47_7, 806, 806, 8.060 us, 8.060 us, 806, 806, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_45_6_VITIS_LOOP_47_728_fu_5846">cnn_Pipeline_VITIS_LOOP_45_6_VITIS_LOOP_47_728, 806, 806, 8.060 us, 8.060 us, 806, 806, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_67_11_fu_5978">cnn_Pipeline_VITIS_LOOP_67_11, 30, 30, 0.300 us, 0.300 us, 30, 30, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_45_6_VITIS_LOOP_47_729_fu_6024">cnn_Pipeline_VITIS_LOOP_45_6_VITIS_LOOP_47_729, 806, 806, 8.060 us, 8.060 us, 806, 806, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_67_1130_fu_6158">cnn_Pipeline_VITIS_LOOP_67_1130, 30, 30, 0.300 us, 0.300 us, 30, 30, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_67_1131_fu_6204">cnn_Pipeline_VITIS_LOOP_67_1131, 30, 30, 0.300 us, 0.300 us, 30, 30, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_14_fu_6250">cnn_Pipeline_VITIS_LOOP_80_14, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1432_fu_6273">cnn_Pipeline_VITIS_LOOP_80_1432, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1433_fu_6296">cnn_Pipeline_VITIS_LOOP_80_1433, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1434_fu_6319">cnn_Pipeline_VITIS_LOOP_80_1434, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1435_fu_6342">cnn_Pipeline_VITIS_LOOP_80_1435, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1436_fu_6365">cnn_Pipeline_VITIS_LOOP_80_1436, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1437_fu_6388">cnn_Pipeline_VITIS_LOOP_80_1437, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1438_fu_6411">cnn_Pipeline_VITIS_LOOP_80_1438, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1439_fu_6434">cnn_Pipeline_VITIS_LOOP_80_1439, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1440_fu_6457">cnn_Pipeline_VITIS_LOOP_80_1440, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1441_fu_6480">cnn_Pipeline_VITIS_LOOP_80_1441, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1442_fu_6503">cnn_Pipeline_VITIS_LOOP_80_1442, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1443_fu_6526">cnn_Pipeline_VITIS_LOOP_80_1443, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+<column name="grp_cnn_Pipeline_VITIS_LOOP_80_1444_fu_6549">cnn_Pipeline_VITIS_LOOP_80_1444, 2357, 2357, 23.570 us, 23.570 us, 2357, 2357, no</column>
+</table>
+</item>
+<item name = "Loop"><table name="" hasTotal="0">
+<keys size="8">Loop Name, min, max, Latency, achieved, target, Count, Pipelined</keys>
+</table>
+</item>
+</section>
+</item>
+</section>
+</item>
+</section>
+</profile>

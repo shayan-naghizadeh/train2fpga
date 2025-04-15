@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="cnn.cpp" path="C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="digits.cpp" path="C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\digits.cpp"/>
+    <originFiles name="tb.cpp" path="C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

@@ -1,0 +1,19 @@
+{
+  "0": {
+    "basicblocks": 6498,
+    "calls": "",
+    "file": "cnn.cpp",
+    "fileloc": 5,
+    "instructions": 15298,
+    "loads": {
+      "L": 413,
+      "T": 424
+    },
+    "name": "cnn",
+    "stores": {
+      "L": 199,
+      "T": 10
+    },
+    "total_instructions": 15298
+  }
+}

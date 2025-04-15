@@ -1,0 +1,1997 @@
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_99_17
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:99:23'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '10'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_102_18
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:102:28'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_88_15
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:88:23'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '12'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_91_16
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:91:27'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_77_13
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:77:23'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '14'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_65_10
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:65:23'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_68_12
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:68:31'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '28'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_68_12
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:68:31'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '28'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_68_12
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:68:31'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '28'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_40_5
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:40:22'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_49_8
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:49:34'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_51_9
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:51:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_51_9
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:51:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_51_9
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:51:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_49_8
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:49:34'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_51_9
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:51:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_51_9
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:51:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_51_9
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:51:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_49_8
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:49:34'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_51_9
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:51:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_51_9
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:51:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_51_9
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:51:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '3'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_29_4
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:29:26'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '30'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaFullyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_19_1
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:19:22'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' completely with a factor of '
+  - Factor:          '28'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-pragma-loop-unroll
+Name:            PragmaPartiallyUnroll
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Unrolling loop '''
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          ''' ('
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ') '
+  - String:          'in function '''
+  - String:          cnn
+  - String:          ''' partially '
+  - String:          ''
+  - String:          'with a factor of '
+  - Factor:          '2'
+...
+--- !Passed
+Pass:            reflow-aggr
+Name:            AggrSucc
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Aggregating '
+  - HwTyName:        bram
+  - String:          ' variable '''
+  - Name:            W3
+  - String:          ''' with '
+  - AggregateTypeName: 'compact=bit'
+  - String:          ' mode in '
+  - Bitwidth:        '16'
+  - String:          '-bits'
+...
+--- !Passed
+Pass:            reflow-aggr
+Name:            AggrSucc
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Aggregating '
+  - HwTyName:        bram
+  - String:          ' variable '''
+  - Name:            W2
+  - String:          ''' with '
+  - AggregateTypeName: 'compact=bit'
+  - String:          ' mode in '
+  - Bitwidth:        '16'
+  - String:          '-bits'
+...
+--- !Passed
+Pass:            reflow-aggr
+Name:            AggrSucc
+Function:        apatb_cnn_ir
+Args:            
+  - String:          'Aggregating '
+  - HwTyName:        bram
+  - String:          ' variable '''
+  - Name:            W1
+  - String:          ''' with '
+  - AggregateTypeName: 'compact=bit'
+  - String:          ' mode in '
+  - Bitwidth:        '16'
+  - String:          '-bits'
+...
+--- !Passed
+Pass:            reflow-aggr
+Name:            AggrSucc
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Aggregating '
+  - HwTyName:        bram
+  - String:          ' variable '''
+  - Name:            kernel
+  - String:          ''' with '
+  - AggregateTypeName: 'compact=bit'
+  - String:          ' mode in '
+  - Bitwidth:        '16'
+  - String:          '-bits'
+...
+--- !Passed
+Pass:            reflow-aggr
+Name:            AggrSucc
+DebugLoc:        { File: cnn.cpp, Line: 15, Column: 0 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Aggregating '
+  - HwTyName:        bram
+  - String:          ' variable '''
+  - Name:            input
+  - String:          ''' with '
+  - AggregateTypeName: 'compact=bit'
+  - String:          ' mode in '
+  - Bitwidth:        '16'
+  - String:          '-bits'
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_21_2
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:21:19'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_28_3
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:28:22'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_47_7
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:47:30'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_47_7
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:47:30'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_47_7
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:47:30'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_67_11
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:67:20'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_67_11
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:67:20'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_67_11
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:67:20'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !HLSReportInfo
+Pass:            auto-loop-pipeline
+Name:            AutoLoopPipeline
+Args:            
+  - String:          'automatically set the pipeline for Loop< '
+  - LoopName:        VITIS_LOOP_80_14
+  - String:          '> at '
+  - LoopLoc:         'cnn.cpp:80:27'
+  - String:          ' '
+...
+--- !Passed
+Pass:            reflow-auto-array-partition
+Name:            AutoParallelPerformanceDrivenVerbosePassed
+DebugLoc:        { File: cnn.cpp, Line: 17, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - PragmaType:      array_partition
+  - String:          ' '
+  - PragmaOptions:   'dim=1 type=cyclic factor=3 variable=local_input'
+  - String:          ' '
+  - PragmaIsAuto:    '1'
+  - String:          ' '
+  - PragmaFunction:  cnn
+  - String:          ' '
+  - varLoc:          'cnn.cpp:17:16'
+  - String:          ' '
+  - VarName:         local_input
+  - String:          ' '
+...
+--- !Passed
+Pass:            reflow-auto-array-partition
+Name:            AutoArrayXform
+DebugLoc:        { File: cnn.cpp, Line: 17, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Inferring pragma '''
+  - PragmaType:      array_partition
+  - String:          ' type='
+  - Mode:            cyclic
+  - String:          ' factor='
+  - Factor:          '3'
+  - String:          ' dim='
+  - Dim:             '1'
+  - String:          ''' for array '''
+  - Name:            local_input
+  - String:          ''''
+  - String:          ' due to '
+  - String:          pipeline
+  - String:          ' pragma'
+...
+--- !Passed
+Pass:            reflow-auto-array-partition
+Name:            AutoParallelPerformanceDrivenVerbosePassed
+DebugLoc:        { File: cnn.cpp, Line: 17, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - PragmaType:      array_partition
+  - String:          ' '
+  - PragmaOptions:   'dim=2 type=complete  variable=local_input'
+  - String:          ' '
+  - PragmaIsAuto:    '1'
+  - String:          ' '
+  - PragmaFunction:  cnn
+  - String:          ' '
+  - varLoc:          'cnn.cpp:17:16'
+  - String:          ' '
+  - VarName:         local_input
+  - String:          ' '
+...
+--- !Passed
+Pass:            reflow-auto-array-partition
+Name:            AutoArrayXform
+DebugLoc:        { File: cnn.cpp, Line: 17, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Inferring pragma '''
+  - PragmaType:      array_partition
+  - String:          ' type='
+  - Mode:            complete
+  - String:          ' dim='
+  - Dim:             '2'
+  - String:          ''' for array '''
+  - Name:            local_input
+  - String:          ''''
+  - String:          ' due to '
+  - String:          pipeline
+  - String:          ' pragma'
+...
+--- !Passed
+Pass:            reflow-auto-array-partition
+Name:            AutoParallelPerformanceDrivenVerbosePassed
+DebugLoc:        { File: cnn.cpp, Line: 38, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - PragmaType:      array_partition
+  - String:          ' '
+  - PragmaOptions:   'dim=3 type=complete  variable=output_conv'
+  - String:          ' '
+  - PragmaIsAuto:    '1'
+  - String:          ' '
+  - PragmaFunction:  cnn
+  - String:          ' '
+  - varLoc:          'cnn.cpp:38:16'
+  - String:          ' '
+  - VarName:         output_conv
+  - String:          ' '
+...
+--- !Passed
+Pass:            reflow-auto-array-partition
+Name:            AutoArrayXform
+DebugLoc:        { File: cnn.cpp, Line: 38, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Inferring pragma '''
+  - PragmaType:      array_partition
+  - String:          ' type='
+  - Mode:            complete
+  - String:          ' dim='
+  - Dim:             '3'
+  - String:          ''' for array '''
+  - Name:            output_conv
+  - String:          ''''
+  - String:          ' due to '
+  - String:          pipeline
+  - String:          ' pragma'
+...
+--- !Passed
+Pass:            reflow-auto-array-partition
+Name:            AutoParallelPerformanceDrivenVerbosePassed
+DebugLoc:        { File: cnn.cpp, Line: 63, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - PragmaType:      array_partition
+  - String:          ' '
+  - PragmaOptions:   'dim=1 type=cyclic factor=14 variable=flattened_output'
+  - String:          ' '
+  - PragmaIsAuto:    '1'
+  - String:          ' '
+  - PragmaFunction:  cnn
+  - String:          ' '
+  - varLoc:          'cnn.cpp:63:16'
+  - String:          ' '
+  - VarName:         flattened_output
+  - String:          ' '
+...
+--- !Passed
+Pass:            reflow-auto-array-partition
+Name:            AutoArrayXform
+DebugLoc:        { File: cnn.cpp, Line: 63, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Inferring pragma '''
+  - PragmaType:      array_partition
+  - String:          ' type='
+  - Mode:            cyclic
+  - String:          ' factor='
+  - Factor:          '14'
+  - String:          ' dim='
+  - Dim:             '1'
+  - String:          ''' for array '''
+  - Name:            flattened_output
+  - String:          ''''
+  - String:          ' due to '
+  - String:          pipeline
+  - String:          ' pragma'
+...
+--- !Passed
+Pass:            reflow-array-partition
+Name:            ArrayXform
+DebugLoc:        { File: cnn.cpp, Line: 17, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Applying '
+  - String:          array_partition
+  - String:          ' to '''
+  - UOName:          local_input
+  - String:          ''':'
+  - String:          ' '
+  - Mode:            Cyclic
+  - String:          ' partitioning'
+  - String:          ' with factor '
+  - Factor:          '3'
+  - String:          ' on dimension '
+  - Dim:             '1'
+  - String:          .
+  - String:          ' '
+  - Mode:            Complete
+  - String:          ' partitioning'
+  - String:          ' on dimension '
+  - Dim:             '2'
+  - String:          .
+...
+--- !Passed
+Pass:            reflow-array-partition
+Name:            ArrayXform
+DebugLoc:        { File: cnn.cpp, Line: 38, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Applying '
+  - String:          array_partition
+  - String:          ' to '''
+  - UOName:          output_conv
+  - String:          ''':'
+  - String:          ' '
+  - Mode:            Complete
+  - String:          ' partitioning'
+  - String:          ' on dimension '
+  - Dim:             '3'
+  - String:          .
+...
+--- !Passed
+Pass:            reflow-array-partition
+Name:            ArrayXform
+DebugLoc:        { File: cnn.cpp, Line: 63, Column: 16 }
+Function:        _Z3cnnPA28_8ap_fixedILi16ELi10EL9ap_q_mode5EL9ap_o_mode3ELi0EEPA3_A3_S2_PS2_PA2352_S2_S8_PA14_S2_S8_PA12_S2_S8_S8_
+Args:            
+  - String:          'Applying '
+  - String:          array_partition
+  - String:          ' to '''
+  - UOName:          flattened_output
+  - String:          ''':'
+  - String:          ' '
+  - Mode:            Cyclic
+  - String:          ' partitioning'
+  - String:          ' with factor '
+  - Factor:          '14'
+  - String:          ' on dimension '
+  - Dim:             '1'
+  - String:          .
+...

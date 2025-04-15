@@ -1,0 +1,115 @@
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:1455:7: warning: Added loop label VITIS_LOOP_1207_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1207_1: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:1455:7: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:2429:5: warning: Added loop label VITIS_LOOP_676_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_676_1: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:2429:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:2443:5: warning: Added loop label VITIS_LOOP_690_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_690_1: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:2443:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:2457:5: warning: Added loop label VITIS_LOOP_704_1:   [xilinx-label-all-loops]
+    for (unsigned i = low; i != high; ++i) {
+    ^~~
+    VITIS_LOOP_704_1: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:2457:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:4074:7: warning: Added loop label VITIS_LOOP_1247_1:   [xilinx-label-all-loops]
+      for (i = 0; i < __N - 1; ++i) {
+      ^~~
+      VITIS_LOOP_1247_1: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:4074:7: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5872:5: warning: Added loop label VITIS_LOOP_19_1:   [xilinx-label-all-loops]
+    for (int i = 0; i < 28; i++) {
+    ^~~
+    VITIS_LOOP_19_1: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5872:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5874:2: warning: Added loop label VITIS_LOOP_21_2:   [xilinx-label-all-loops]
+ for (int j = 0; j < 28; j++) {
+ ^~~
+ VITIS_LOOP_21_2: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5874:2: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5881:5: warning: Added loop label VITIS_LOOP_28_3:   [xilinx-label-all-loops]
+    for (int i = 0; i < 30; i++) {
+    ^~~
+    VITIS_LOOP_28_3: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5881:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5882:9: warning: Added loop label VITIS_LOOP_29_4:   [xilinx-label-all-loops]
+        for (int j = 0; j < 30; j++) {
+        ^~~
+        VITIS_LOOP_29_4: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5882:9: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5893:5: warning: Added loop label VITIS_LOOP_40_5:   [xilinx-label-all-loops]
+    for (int c = 0; c < 3; c++) {
+    ^~~
+    VITIS_LOOP_40_5: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5893:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5898:9: warning: Added loop label VITIS_LOOP_45_6:   [xilinx-label-all-loops]
+        for (int i = 0; i < 28; i++) {
+        ^~~
+        VITIS_LOOP_45_6: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5898:9: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5900:13: warning: Added loop label VITIS_LOOP_47_7:   [xilinx-label-all-loops]
+            for (int j = 0; j < 28; j++) {
+            ^~~
+            VITIS_LOOP_47_7: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5900:13: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5902:17: warning: Added loop label VITIS_LOOP_49_8:   [xilinx-label-all-loops]
+                for (int ki = 0; ki < 3; ki++) {
+                ^~~
+                VITIS_LOOP_49_8: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5902:17: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5904:2: warning: Added loop label VITIS_LOOP_51_9:   [xilinx-label-all-loops]
+ for (int kj = 0; kj < 3; kj++) {
+ ^~~
+ VITIS_LOOP_51_9: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5904:2: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5918:5: warning: Added loop label VITIS_LOOP_65_10:   [xilinx-label-all-loops]
+    for (int c = 0; c < 3; c++) {
+    ^~~
+    VITIS_LOOP_65_10: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5918:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5920:2: warning: Added loop label VITIS_LOOP_67_11:   [xilinx-label-all-loops]
+ for (int i = 0; i < 28; i++) {
+ ^~~
+ VITIS_LOOP_67_11: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5920:2: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5921:13: warning: Added loop label VITIS_LOOP_68_12:   [xilinx-label-all-loops]
+            for (int j = 0; j < 28; j++) {
+            ^~~
+            VITIS_LOOP_68_12: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5921:13: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5930:5: warning: Added loop label VITIS_LOOP_77_13:   [xilinx-label-all-loops]
+    for (int i = 0; i < 14; i++) {
+    ^~~
+    VITIS_LOOP_77_13: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5930:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5933:9: warning: Added loop label VITIS_LOOP_80_14:   [xilinx-label-all-loops]
+        for (int j = 0; j < 2352; j++) {
+        ^~~
+        VITIS_LOOP_80_14: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5933:9: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5941:5: warning: Added loop label VITIS_LOOP_88_15:   [xilinx-label-all-loops]
+    for (int i = 0; i < 12; i++) {
+    ^~~
+    VITIS_LOOP_88_15: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5941:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5944:9: warning: Added loop label VITIS_LOOP_91_16:   [xilinx-label-all-loops]
+        for (int j = 0; j < 14; j++) {
+        ^~~
+        VITIS_LOOP_91_16: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5944:9: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5952:5: warning: Added loop label VITIS_LOOP_99_17:   [xilinx-label-all-loops]
+    for (int i = 0; i < 10; i++) {
+    ^~~
+    VITIS_LOOP_99_17: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5952:5: note: FIX-IT applied suggested code changes
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5955:9: warning: Added loop label VITIS_LOOP_102_18:   [xilinx-label-all-loops]
+        for (int j = 0; j < 12; j++) {
+        ^~~
+        VITIS_LOOP_102_18: 
+C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp:5955:9: note: FIX-IT applied suggested code changes

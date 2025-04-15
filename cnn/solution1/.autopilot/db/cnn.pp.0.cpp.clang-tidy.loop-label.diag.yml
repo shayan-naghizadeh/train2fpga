@@ -1,0 +1,211 @@
+---
+MainSourceFile:  'C:/Users/Lenovo/Desktop/aaaaaaaaaaaaaaaaaaaa/cnn/solution1/.autopilot/db/cnn.pp.0.cpp'
+Diagnostics:     
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1207_1:  '
+    FileOffset:      1207
+    FilePath:        'C:\Xilinx\Vitis_HLS\2023.2\common\technology\autopilot\etc\ap_int_base.h'
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          59326
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1207_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_676_1:  '
+    FileOffset:      676
+    FilePath:        'C:\Xilinx\Vitis_HLS\2023.2\common\technology\autopilot\etc\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          286650
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_676_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_690_1:  '
+    FileOffset:      690
+    FilePath:        'C:\Xilinx\Vitis_HLS\2023.2\common\technology\autopilot\etc\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          287114
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_690_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_704_1:  '
+    FileOffset:      704
+    FilePath:        'C:\Xilinx\Vitis_HLS\2023.2\common\technology\autopilot\etc\ap_int_ref.h'
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          287579
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_704_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_1247_1:  '
+    FileOffset:      1247
+    FilePath:        'C:\Xilinx\Vitis_HLS\2023.2\common\technology\autopilot\etc\ap_fixed_base.h'
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          570465
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_1247_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_19_1:  '
+    FileOffset:      19
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          938730
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_19_1: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_21_2:  '
+    FileOffset:      21
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          938781
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_21_2: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_28_3:  '
+    FileOffset:      28
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          938906
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_28_3: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_29_4:  '
+    FileOffset:      29
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          938945
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_29_4: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_40_5:  '
+    FileOffset:      40
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          939157
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_40_5: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_45_6:  '
+    FileOffset:      45
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          939304
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_45_6: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_47_7:  '
+    FileOffset:      47
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          939348
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_47_7: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_49_8:  '
+    FileOffset:      49
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          939442
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_49_8: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_51_9:  '
+    FileOffset:      51
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          939495
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_51_9: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_65_10:  '
+    FileOffset:      65
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          939826
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_65_10: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_67_11:  '
+    FileOffset:      67
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          939876
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_67_11: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_68_12:  '
+    FileOffset:      68
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          939919
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_68_12: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_77_13:  '
+    FileOffset:      77
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          940085
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_77_13: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_80_14:  '
+    FileOffset:      80
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          940168
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_80_14: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_88_15:  '
+    FileOffset:      88
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          940374
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_88_15: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_91_16:  '
+    FileOffset:      91
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          940457
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_91_16: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_99_17:  '
+    FileOffset:      99
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          940632
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_99_17: '
+  - DiagnosticName:  xilinx-label-all-loops
+    Message:         'Added loop label VITIS_LOOP_102_18:  '
+    FileOffset:      102
+    FilePath:        cnn.cpp
+    Replacements:    
+      - FilePath:        'C:\Users\Lenovo\Desktop\aaaaaaaaaaaaaaaaaaaa\cnn\solution1\.autopilot\db\cnn.pp.0.cpp'
+        Offset:          940715
+        Length:          0
+        ReplacementText: 'VITIS_LOOP_102_18: '
+...
